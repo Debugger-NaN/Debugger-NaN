@@ -67,7 +67,7 @@ Let me know if you'd like it tweaked to reflect specific skills or interests! �
 👥 **Followers:** 0  
 🔗 **Following:** 0  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karan-0001&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debugger-NaN&show_icons=true&theme=radical)
 
 ## Recent Activity
 
